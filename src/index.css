@@ -317,7 +317,17 @@ Loading
 }
 
 @media (max-width: 600px) {
-  html {
-    font-size: 60%;
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  .quiz {
+    width: 98vw;
+    padding: 1rem;
+    margin: 2rem auto;
+  }
+
+  .container h2 {
+    line-height: 1.1;
   }
 }
