@@ -4,4 +4,6 @@ A simple quiz app with different categories and difficulties using [OpenTriviaDB
 
 ## Live preview
 
+https://quiz-app-nu-six.vercel.app/
+
 ![Quiz App](public/Quiz.gif)
