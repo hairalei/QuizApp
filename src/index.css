@@ -330,4 +330,13 @@ Loading
   .container h2 {
     line-height: 1.1;
   }
+
+  .close-btn {
+    margin: 0;
+    width: 100%;
+  }
+
+  .modal-content {
+    padding: 1.5rem;
+  }
 }
