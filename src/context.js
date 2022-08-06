@@ -6,7 +6,7 @@ const table = {
   videoGames: 15,
   animals: 27,
   cartoons: 32,
-  mythodology: 20,
+  mythology: 20,
   geography: 22,
 };
 

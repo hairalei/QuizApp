@@ -1,9 +1,9 @@
 import React from "react";
 import { useGlobalContext } from "./context";
 
-import SetupForm from "./SetupForm";
-import Loading from "./Loading";
-import Modal from "./Modal";
+import SetupForm from "./components/SetupForm";
+import Loading from "./components/Loading";
+import Modal from "./components/Modal";
 
 function App() {
   const {

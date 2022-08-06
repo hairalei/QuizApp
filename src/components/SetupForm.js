@@ -1,5 +1,5 @@
 import React from "react";
-import { useGlobalContext } from "./context";
+import { useGlobalContext } from "../context";
 
 const SetupForm = () => {
   const { quiz, handleChange, handleSubmit, error } = useGlobalContext();
@@ -36,7 +36,7 @@ const SetupForm = () => {
               <option value="videoGames">video games</option>
               <option value="animals">animals</option>
               <option value="cartoons">cartoons and animations</option>
-              <option value="mythodology">mythodology</option>
+              <option value="mythology">mythology</option>
               <option value="geography">geography</option>
             </select>
           </div>
